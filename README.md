@@ -1,2 +1,2 @@
-# AI Feature Recogniser
+# AI Feature Recognizer
 AI that detects your features
